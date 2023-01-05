@@ -1,6 +1,8 @@
 # gitignore file for the project
 
 /data/CT
+/frontend/node_modules
+
 
 
 
