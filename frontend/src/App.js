@@ -1,4 +1,4 @@
-import gaitonde from './assets/gaitonde.jpeg';
+import gaitonde from './assets/gaitonde.png';
 import './App.css';
 
 function App() {
